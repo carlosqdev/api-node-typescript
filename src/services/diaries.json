@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "date": "2020-01-01",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Pretty scary flight"
+  },
+  {
+    "id": 2,
+    "date": "2020-01-02",
+    "weather": "rainy",
+    "visibility": "good",
+    "comment": "Pretty scary flight"
+  },
+  {
+    "id": 3,
+    "date": "2020-01-03",
+    "weather": "sunny",
+    "visibility": "good",
+    "comment": "Pretty scary flight"
+  }
+]
